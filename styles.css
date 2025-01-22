@@ -84,6 +84,8 @@ h1 {
 span {
     margin-top: 10px;
     margin-bottom: 20px;
+    text-align: center;
+    font-size: 1.3rem;
 }
 
 .info {
